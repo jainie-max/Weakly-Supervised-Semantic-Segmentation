@@ -58,16 +58,16 @@
   [[code]](https://github.com/allenwu97/EDAM)
   - Tong Wu, Junshi Huang, Guangyu Gao, Xiaoming Wei, Xiaolin Wei, Xuan Luo, Chi Harold Liu *CVPR 2021*
 
-- BBAM: Bounding Box Attribution Map for Weakly Supervised Semantic and Instance Segmentation。
+- BBAM: Bounding Box Attribution Map for Weakly Supervised Semantic and Instance Segmentation.
   [[pdf]](https://arxiv.org/abs/2103.08907)
   [[code]](https://github.com/jbeomlee93/BBAM)
   - Jungbeom Lee, Jihun Yi, Chaehun Shin, Sungroh Yoon. *CVPR 2021*
 
-- Pseudo-mask matters in weakly-supervised semantic segmentation。
+- Pseudo-mask matters in weakly-supervised semantic segmentation.
   [[pdf]](https://openaccess.thecvf.com/content/ICCV2021/papers/Li_Pseudo-Mask_Matters_in_Weakly-Supervised_Semantic_Segmentation_ICCV_2021_paper.pdf)
   - Y Li, Z Kuang, L Liu, Y Chen, W Zhang. *ICCV 2021*
 
-- Leveraging Auxiliary Tasks with Affinity Learning for Weakly Supervised Semantic Segmentation。
+- Leveraging Auxiliary Tasks with Affinity Learning for Weakly Supervised Semantic Segmentation.
   [[pdf]](https://arxiv.org/abs/2107.11787)
   - Lian Xu, Wanli Ouyang, Mohammed Bennamoun, Farid Boussaid, Ferdous Sohel, Dan Xu. *ICCV 2021*
 
@@ -76,7 +76,7 @@
   - Fei Zhang, Chaochen Gu, Chenyue Zhang, Yuchao Dai. $ICCV$
  
 - ECS-Net: Improving Weakly Supervised Semantic Segmentation by Using
-Connections Between Class Activation Maps。
+Connections Between Class Activation Maps.
   [[pdf]](https://openaccess.thecvf.com/content/ICCV2021/papers/Sun_ECS-Net_Improving_Weakly_Supervised_Semantic_Segmentation_by_Using_Connections_Between_ICCV_2021_paper.pdf)
 - Kunyang Sun, Haoqing Shi, Zhengming Zhang, Yongming Huang. *ICCV 2021*
   
@@ -99,11 +99,11 @@ Connections Between Class Activation Maps。
   [[pdf]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Fan_Learning_Integral_Objects_With_Intra-Class_Discriminator_for_Weakly-Supervised_Semantic_Segmentation_CVPR_2020_paper.pdf)
   - J Fan, Z Zhang, C Song, T Tan. *CVPR 2020*
 
-- Weakly-Supervised Semantic Segmentation via Sub-category Exploration。
+- Weakly-Supervised Semantic Segmentation via Sub-category Exploration.
   [[pdf]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chang_Weakly-Supervised_Semantic_Segmentation_via_Sub-Category_Exploration_CVPR_2020_paper.pdf)
   - YT Chang, Q Wang, WC Hung, R Piramuthu, YH Tsai, MH Yang. *CVPR 2020*
 
-- Cian: Cross-image affinity net for weakly supervised semantic segmentation。
+- Cian: Cross-image affinity net for weakly supervised semantic segmentation.
   [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/download/6705/6559)
   - J Fan, Z Zhang, T Tan, C Song, J Xiao. *AAAI 2020*
 
@@ -111,11 +111,11 @@ Connections Between Class Activation Maps。
   [[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123620324.pdf)
   - J Fan, Z Zhang, T Tan. *ECCV 2020*
 
-- Mining Cross-Image Semantics for Weakly Supervised Semantic Segmentation
+- Mining Cross-Image Semantics for Weakly Supervised Semantic Segmentation.
   [[pdf]](https://arxiv.org/pdf/2007.01947).
   - Guolei Sun, Wenguan Wang, Jifeng Dai & Luc Van Gool. *ECCV 2020*
 
-- Mixup-cam: Weakly-supervised semantic segmentation via uncertainty regularization。
+- Mixup-cam: Weakly-supervised semantic segmentation via uncertainty regularization.
   [[pdf]](https://arxiv.org/pdf/2008.01201)
   - Yu-Ting Chang, Qiaosong Wang, Wei-Chih Hung, Robinson Piramuthu, Yi-Hsuan Tsai, Ming-Hsuan Yang. *arxiv 2020*
   
