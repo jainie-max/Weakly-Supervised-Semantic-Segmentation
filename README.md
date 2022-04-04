@@ -65,6 +65,7 @@
 
 - Pseudo-mask matters in weakly-supervised semantic segmentation.
   [[pdf]](https://openaccess.thecvf.com/content/ICCV2021/papers/Li_Pseudo-Mask_Matters_in_Weakly-Supervised_Semantic_Segmentation_ICCV_2021_paper.pdf)
+  [[code]](https://github.com/Eli-YiLi/PMM)
   - Y Li, Z Kuang, L Liu, Y Chen, W Zhang. *ICCV 2021*
 
 - Leveraging Auxiliary Tasks with Affinity Learning for Weakly Supervised Semantic Segmentation.
