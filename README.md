@@ -42,7 +42,17 @@
 # 2021
 - Railroad Is Not a Train: Saliency As Pseudo-Pixel Supervision for Weakly Supervised Semantic Segmentation.
   [[pdf]](https://openaccess.thecvf.com/content/CVPR2021/papers/Lee_Railroad_Is_Not_a_Train_Saliency_As_Pseudo-Pixel_Supervision_for_CVPR_2021_paper.pdf) [[code]](https://github.com/halbielee/EPS)
-  - Seungho Lee, Minhyun Lee, Jongwuk Lee, Hyunjung Shim.
+  - Seungho Lee, Minhyun Lee, Jongwuk Lee, Hyunjung Shim. *CVPR 2021*
+
+- Background-Aware Pooling and Noise-Aware Loss for Weakly-Supervised Semantic Segmentation.
+  [[pdf]](https://arxiv.org/abs/2104.00905)
+  - Youngmin Oh, Beomjun Kim, Bumsub Ham. *CVPR 2021*
+
+- Non-Salient Region Object Mining for Weakly Supervised Semantic Segmentation.
+  [[pdf]](https://arxiv.org/abs/2103.14581)
+  [[code]](https://github.com/NUST-Machine-Intelligence-Laboratory/nsrom)
+  - Yazhou Yao, Tao Chen, Guosen Xie, Chuanyi Zhang, Fumin Shen, Qi Wu, Zhenmin Tang, Jian Zhang. $CVPR 2021$
+  
   
   
   
