@@ -65,9 +65,38 @@
 
 
 # 2020
+- Self-supervised Equivariant Attention Mechanism for Weakly Supervised Semantic Segmentation.
+  [[pdf]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Self-Supervised_Equivariant_Attention_Mechanism_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2020_paper.pdf)
+  [[code]](https://github.com/YudeWang/SEAM/issues)
+  - Yude Wang, Jie Zhang, Meina Kan, Shiguang Shan, Xilin Chen. *CVPR 2020*
+
+- Learning integral objects with intra-class discriminator for weakly-supervised semantic segmentation
+  [[pdf]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Fan_Learning_Integral_Objects_With_Intra-Class_Discriminator_for_Weakly-Supervised_Semantic_Segmentation_CVPR_2020_paper.pdf)
+  - J Fan, Z Zhang, C Song, T Tan. *CVPR 2020*
+
+- Weakly-Supervised Semantic Segmentation via Sub-category Exploration。
+  [[pdf]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chang_Weakly-Supervised_Semantic_Segmentation_via_Sub-Category_Exploration_CVPR_2020_paper.pdf)
+  - YT Chang, Q Wang, WC Hung, R Piramuthu, YH Tsai, MH Yang. *CVPR 2020*
+
+- Cian: Cross-image affinity net for weakly supervised semantic segmentation。
+  [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/download/6705/6559)
+  - J Fan, Z Zhang, T Tan, C Song, J Xiao. *AAAI 2020*
+
+- Employing multi-estimations for weakly-supervised semantic segmentation.
+  [[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123620324.pdf)
+  - J Fan, Z Zhang, T Tan. *ECCV 2020*
+
+- Mining Cross-Image Semantics for Weakly Supervised Semantic Segmentation
+  [[pdf]](https://arxiv.org/pdf/2007.01947).
+  - Guolei Sun, Wenguan Wang, Jifeng Dai & Luc Van Gool. *ECCV 2020*
+
+- Mixup-cam: Weakly-supervised semantic segmentation via uncertainty regularization。
+  [[pdf]](https://arxiv.org/pdf/2008.01201)
+  Yu-Ting Chang, Qiaosong Wang, Wei-Chih Hung, Robinson Piramuthu, Yi-Hsuan Tsai, Ming-Hsuan Yang. *arxiv 2020*
   
+
   
-  
+
   
   
   
