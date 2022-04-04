@@ -94,7 +94,7 @@
 
 - Discriminative Region Suppression for Weakly-Supervised Semantic Segmentation。
   [[pdf]](https://www.aaai.org/AAAI21Papers/AAAI-4464.KimB.pdf)
-  - Beomyoung Kim, Sangeun Han, Junmo Kim. $AAAI 2021$
+  - Beomyoung Kim, Sangeun Han, Junmo Kim. *AAAI 2021*
 
 - Reducing Information Bottleneck for Weakly Supervised Semantic Segmentation.
   [[pdf]](https://proceedings.neurips.cc/paper/2021/file/e6384711491713d29bc63fc5eeb5ba4f-Paper.pdf)
