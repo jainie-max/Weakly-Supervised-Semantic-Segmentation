@@ -39,6 +39,10 @@
   - Jinheng Xie, Xianxu Hou, Kai Ye, Linlin Shen. *CVPR 2022*
   
   
+# 2021
+- Railroad Is Not a Train: Saliency As Pseudo-Pixel Supervision for Weakly Supervised Semantic Segmentation.
+  [[pdf]](https://openaccess.thecvf.com/content/CVPR2021/papers/Lee_Railroad_Is_Not_a_Train_Saliency_As_Pseudo-Pixel_Supervision_for_CVPR_2021_paper.pdf) [[code]](https://github.com/halbielee/EPS)
+  - Seungho Lee, Minhyun Lee, Jongwuk Lee, Hyunjung Shim.
   
   
   
