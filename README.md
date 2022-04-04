@@ -51,7 +51,7 @@
 - Non-Salient Region Object Mining for Weakly Supervised Semantic Segmentation.
   [[pdf]](https://arxiv.org/abs/2103.14581)
   [[code]](https://github.com/NUST-Machine-Intelligence-Laboratory/nsrom)
-  - Yazhou Yao, Tao Chen, Guosen Xie, Chuanyi Zhang, Fumin Shen, Qi Wu, Zhenmin Tang, Jian Zhang. $CVPR 2021$
+  - Yazhou Yao, Tao Chen, Guosen Xie, Chuanyi Zhang, Fumin Shen, Qi Wu, Zhenmin Tang, Jian Zhang. *CVPR 2021*
   
   
   
