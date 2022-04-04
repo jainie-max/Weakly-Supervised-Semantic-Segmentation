@@ -26,7 +26,7 @@
   [[pdf]](https://arxiv.org/abs/2110.07110)
   - Ye Du, Zehua Fu, Qingjie Liu, Yunhong Wang. *CVPR 2022*
   
--  Weakly Supervised Semantic Segmentation using Out-of-Distribution Date.
+- Weakly Supervised Semantic Segmentation using Out-of-Distribution Date.
   [[pdf]](https://arxiv.org/abs/2203.03860) [[code]](https://github.com/naver-ai/w-ood)
   - Jungbeom Lee, Seong Joon Oh, Sangdoo Yun, Junsuk Choe, Eunji Kim, Sungroh Yoon. *CVPR 2022*
   
