@@ -73,12 +73,12 @@
 
 - Complementary patch for weakly supervised semantic segmentation.
   [[pdf]](https://arxiv.org/abs/2108.03852)
-  - Fei Zhang, Chaochen Gu, Chenyue Zhang, Yuchao Dai. $ICCV$
+  - Fei Zhang, Chaochen Gu, Chenyue Zhang, Yuchao Dai. *ICCV 2021*
  
 - ECS-Net: Improving Weakly Supervised Semantic Segmentation by Using
 Connections Between Class Activation Maps.
   [[pdf]](https://openaccess.thecvf.com/content/ICCV2021/papers/Sun_ECS-Net_Improving_Weakly_Supervised_Semantic_Segmentation_by_Using_Connections_Between_ICCV_2021_paper.pdf)
-- Kunyang Sun, Haoqing Shi, Zhengming Zhang, Yongming Huang. *ICCV 2021*
+  - Kunyang Sun, Haoqing Shi, Zhengming Zhang, Yongming Huang. *ICCV 2021*
   
 - A comprehensive analysis of weakly-supervised semantic segmentation in different image domains.
   [[pdf]](https://arxiv.org/pdf/1912.11186)
