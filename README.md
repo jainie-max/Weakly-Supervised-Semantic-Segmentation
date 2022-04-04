@@ -28,7 +28,7 @@
   
 -  Weakly Supervised Semantic Segmentation using Out-of-Distribution Data。
   [[pdf]](https://arxiv.org/abs/2203.03860) [[code]](https://github.com/naver-ai/w-ood)
-  - Qi Chen, Lingxiao Yang, Jianhuang Lai, Xiaohua Xie *CVPR 2022*
+  - Jungbeom Lee, Seong Joon Oh, Sangdoo Yun, Junsuk Choe, Eunji Kim, Sungroh Yoon. *CVPR 2022*
   
 - Self-supervised Image-specific Prototype Exploration for Weakly Supervised Semantic Segmentation.
   [[pdf]](https://arxiv.org/abs/2203.02909) [[code]](https://github.com/chenqi1126/SIPE)
