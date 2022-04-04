@@ -58,10 +58,35 @@
   [[code]](https://github.com/allenwu97/EDAM)
   - Tong Wu, Junshi Huang, Guangyu Gao, Xiaoming Wei, Xiaolin Wei, Xuan Luo, Chi Harold Liu *CVPR 2021*
 
-- BBAM: Bounding Box Attribution Map for Weakly Supervised Semantic and Instance Segmentation
+- BBAM: Bounding Box Attribution Map for Weakly Supervised Semantic and Instance Segmentation。
   [[pdf]](https://arxiv.org/abs/2103.08907)
   [[code]](https://github.com/jbeomlee93/BBAM)
   - Jungbeom Lee, Jihun Yi, Chaehun Shin, Sungroh Yoon. *CVPR 2021*
+
+- Pseudo-mask matters in weakly-supervised semantic segmentation。
+  [[pdf]](https://openaccess.thecvf.com/content/ICCV2021/papers/Li_Pseudo-Mask_Matters_in_Weakly-Supervised_Semantic_Segmentation_ICCV_2021_paper.pdf)
+  - Y Li, Z Kuang, L Liu, Y Chen, W Zhang. *ICCV 2021*
+
+- Leveraging Auxiliary Tasks with Affinity Learning for Weakly Supervised Semantic Segmentation。
+  [[pdf]](https://arxiv.org/abs/2107.11787)
+  - Lian Xu, Wanli Ouyang, Mohammed Bennamoun, Farid Boussaid, Ferdous Sohel, Dan Xu. *ICCV 2021*
+
+- Complementary patch for weakly supervised semantic segmentation.
+  [[pdf]](https://arxiv.org/abs/2108.03852)
+  - Fei Zhang, Chaochen Gu, Chenyue Zhang, Yuchao Dai. $ICCV$
+ 
+- ECS-Net: Improving Weakly Supervised Semantic Segmentation by Using
+Connections Between Class Activation Maps。
+  [[pdf]](https://openaccess.thecvf.com/content/ICCV2021/papers/Sun_ECS-Net_Improving_Weakly_Supervised_Semantic_Segmentation_by_Using_Connections_Between_ICCV_2021_paper.pdf)
+- Kunyang Sun, Haoqing Shi, Zhengming Zhang, Yongming Huang. *ICCV 2021*
+  
+- A comprehensive analysis of weakly-supervised semantic segmentation in different image domains.
+  [[pdf]](https://arxiv.org/pdf/1912.11186)
+  - Lyndon Chan · Mahdi S. Hosseini · Konstantinos N. Plataniotis. *IJCV 2021*
+  
+- Online Attention Accumulation for Weakly Supervised Semantic Segmentation.
+  [[pdf]](https://mftp.mmcheng.net/Papers/21PAMI-OAA_PAMI.pdf)
+  - PT Jiang, LH Han, Q Hou, MM Cheng, Y Wei. *TPAMI 2021*
 
 
 # 2020
