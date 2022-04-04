@@ -92,7 +92,7 @@
 
 - Mixup-cam: Weakly-supervised semantic segmentation via uncertainty regularization。
   [[pdf]](https://arxiv.org/pdf/2008.01201)
-  Yu-Ting Chang, Qiaosong Wang, Wei-Chih Hung, Robinson Piramuthu, Yi-Hsuan Tsai, Ming-Hsuan Yang. *arxiv 2020*
+  - Yu-Ting Chang, Qiaosong Wang, Wei-Chih Hung, Robinson Piramuthu, Yi-Hsuan Tsai, Ming-Hsuan Yang. *arxiv 2020*
   
 
   
