@@ -52,6 +52,16 @@
   [[pdf]](https://arxiv.org/abs/2103.14581)
   [[code]](https://github.com/NUST-Machine-Intelligence-Laboratory/nsrom)
   - Yazhou Yao, Tao Chen, Guosen Xie, Chuanyi Zhang, Fumin Shen, Qi Wu, Zhenmin Tang, Jian Zhang. *CVPR 2021*
+
+- Embedded Discriminative Attention Mechanism for Weakly Supervised Semantic Segmentation.
+  [[pdf]](https://openaccess.thecvf.com/content/CVPR2021/papers/Wu_Embedded_Discriminative_Attention_Mechanism_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2021_paper.pdf)
+  [[code]](https://github.com/allenwu97/EDAM)
+  - Tong Wu, Junshi Huang, Guangyu Gao, Xiaoming Wei, Xiaolin Wei, Xuan Luo, Chi Harold Liu *CVPR 2021*
+
+- BBAM: Bounding Box Attribution Map for Weakly Supervised Semantic and Instance Segmentation
+  [[pdf]](https://arxiv.org/abs/2103.08907)
+  [[code]](https://github.com/jbeomlee93/BBAM)
+  - Jungbeom Lee, Jihun Yi, Chaehun Shin, Sungroh Yoon. *CVPR 2021*
   
   
   
