@@ -120,6 +120,10 @@
   [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/download/6705/6559)
   - J Fan, Z Zhang, T Tan, C Song, J Xiao. *AAAI 2020*
 
+- Reliability Does Matter: An End-to-End Weakly Supervised Semantic Segmentation Approach.
+  [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/6971/6825)
+  - B Zhang, J Xiao, Y Wei, M Sun, K Huang. *AAAI 2020*
+
 - Employing multi-estimations for weakly-supervised semantic segmentation.
   [[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123620324.pdf)
   - J Fan, Z Zhang, T Tan. *ECCV 2020*
@@ -145,7 +149,12 @@
 - Box-Driven Class-Wise Region Masking and Filling Rate Guided Loss for Weakly Supervised Semantic Segmentation。
   [[pdf]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Song_Box-Driven_Class-Wise_Region_Masking_and_Filling_Rate_Guided_Loss_for_CVPR_2019_paper.pdf)
   - Chunfeng Song, Yan Huang, Wanli Ouyang, Liang Wang. *CVPR 2019*
-  
+
+- FickleNet: Weakly and Semi-Supervised Semantic Image Segmentation Using Stochastic Inference.
+  [[pdf]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Lee_FickleNet_Weakly_and_Semi-Supervised_Semantic_Image_Segmentation_Using_Stochastic_Inference_CVPR_2019_paper.pdf)
+  - Jungbeom Lee, Eunji Kim, Sungmin Lee, Jangho Lee, Sungroh Yoon. *CVPR 2019*
+
+
   
   
   
