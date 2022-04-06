@@ -93,7 +93,7 @@
   [[pdf]](https://mftp.mmcheng.net/Papers/21PAMI-OAA_PAMI.pdf)
   - PT Jiang, LH Han, Q Hou, MM Cheng, Y Wei. *TPAMI 2021*
 
-- Discriminative Region Suppression for Weakly-Supervised Semantic Segmentation。
+- Discriminative Region Suppression for Weakly-Supervised Semantic Segmentation.
   [[pdf]](https://www.aaai.org/AAAI21Papers/AAAI-4464.KimB.pdf)
   - Beomyoung Kim, Sangeun Han, Junmo Kim. *AAAI 2021*
 
@@ -133,10 +133,18 @@
   - Yu-Ting Chang, Qiaosong Wang, Wei-Chih Hung, Robinson Piramuthu, Yi-Hsuan Tsai, Ming-Hsuan Yang. *arxiv 2020*
   
 
-  
+# 2019
+- Joint learning of saliency detection and weakly supervised semantic segmentation.
+  [[pdf]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zeng_Joint_Learning_of_Saliency_Detection_and_Weakly_Supervised_Semantic_Segmentation_ICCV_2019_paper.pdf)
+  - Yu Zeng, Yunzhi Zhuge, Huchuan Lu, Lihe Zhang. *ICCV 2019*
 
+- Multi-source weak supervision for saliency detection.
+  [[pdf]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zeng_Multi-Source_Weak_Supervision_for_Saliency_Detection_CVPR_2019_paper.pdf)
+  - Yu Zeng, Yunzhi Zhuge, Huchuan Lu, Lihe Zhang, Mingyang Qian, Yizhou Yu. *CVPR 2019*
   
-  
+- Box-Driven Class-Wise Region Masking and Filling Rate Guided Loss for Weakly Supervised Semantic Segmentation。
+  [[pdf]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Song_Box-Driven_Class-Wise_Region_Masking_and_Filling_Rate_Guided_Loss_for_CVPR_2019_paper.pdf)
+  - Chunfeng Song, Yan Huang, Wanli Ouyang, Liang Wang. *CVPR 2019*
   
   
   
