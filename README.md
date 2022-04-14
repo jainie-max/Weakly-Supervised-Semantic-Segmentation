@@ -117,6 +117,7 @@
 
 - Learning integral objects with intra-class discriminator for weakly-supervised semantic segmentation
   [[pdf]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Fan_Learning_Integral_Objects_With_Intra-Class_Discriminator_for_Weakly-Supervised_Semantic_Segmentation_CVPR_2020_paper.pdf)
+  [[code]](https://github.com/js-fan/ICD)
   - J Fan, Z Zhang, C Song, T Tan. *CVPR 2020*
 
 - Weakly-Supervised Semantic Segmentation via Sub-category Exploration.
