@@ -97,6 +97,9 @@
   [[pdf]](https://mftp.mmcheng.net/Papers/21PAMI-OAA_PAMI.pdf)
   - PT Jiang, LH Han, Q Hou, MM Cheng, Y Wei. *TPAMI 2021*
 
+- Affinity Attention Graph Neural Network for Weakly Supervised Semantic Segmentation. [[pdf]](https://arxiv.org/pdf/2106.04054)
+  - Bingfeng Zhang; Jimin Xiao; Jianbo Jiao; Yunchao Wei; Yao Zhao *TPAMI 2021*
+
 - Discriminative Region Suppression for Weakly-Supervised Semantic Segmentation.
   [[pdf]](https://www.aaai.org/AAAI21Papers/AAAI-4464.KimB.pdf)
   - Beomyoung Kim, Sangeun Han, Junmo Kim. *AAAI 2021*
