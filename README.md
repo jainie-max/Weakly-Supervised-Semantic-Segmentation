@@ -74,6 +74,7 @@
 
 - Complementary patch for weakly supervised semantic segmentation.
   [[pdf]](https://arxiv.org/abs/2108.03852)
+  [[code]](https://github.com/Ferenas/CPN)
   - Fei Zhang, Chaochen Gu, Chenyue Zhang, Yuchao Dai. *ICCV 2021*
  
 - ECS-Net: Improving Weakly Supervised Semantic Segmentation by Using Connections Between Class Activation Maps.
