@@ -84,6 +84,10 @@
   [[pdf]](https://openaccess.thecvf.com/content/ICCV2021/papers/Su_Context_Decoupling_Augmentation_for_Weakly_Supervised_Semantic_Segmentation_ICCV_2021_paper.pdf)
   [[code]](https://github.com/suyukun666/CDA)
   - Yukun Su, Ruizhou Sun, Guosheng Lin, Qingyao Wu. *ICCV 2021*
+
+- Unlocking the potential of ordinary classifier: Class-specific adversarial erasing framework for weakly supervised semantic segmentation。
+  [[pdf]](https://openaccess.thecvf.com/content/ICCV2021/papers/Kweon_Unlocking_the_Potential_of_Ordinary_Classifier_Class-Specific_Adversarial_Erasing_Framework_ICCV_2021_paper.pdf) [[code]](https://github.com/KAIST-vilab/OC-CSE)
+  - Hyeokjun Kweon, Sung-Hoon Yoon, Hyeonseong Kim, Daehee Park, Kuk-Jin Yoon. *ICCV 2021*
   
 - A comprehensive analysis of weakly-supervised semantic segmentation in different image domains.
   [[pdf]](https://arxiv.org/pdf/1912.11186)
