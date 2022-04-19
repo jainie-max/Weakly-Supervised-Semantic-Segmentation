@@ -23,7 +23,7 @@
   - Zhiyuan Liang, Tiancai Wang, Xiangyu Zhang, Jian Sun, Jianbing Shen. *CVPR 2022*
   
 - Weakly Supervised Semantic Segmentation by Pixel-to-Prototype Contrast.
-  [[pdf]](https://arxiv.org/abs/2110.07110)
+  [[pdf]](https://arxiv.org/abs/2110.07110) [[code]](https://github.com/usr922/wseg)
   - Ye Du, Zehua Fu, Qingjie Liu, Yunhong Wang. *CVPR 2022*
   
 - Weakly Supervised Semantic Segmentation using Out-of-Distribution Date.
