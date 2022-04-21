@@ -91,7 +91,7 @@
   - Hyeokjun Kweon, Sung-Hoon Yoon, Hyeonseong Kim, Daehee Park, Kuk-Jin Yoon. *ICCV 2021*
   
 - A comprehensive analysis of weakly-supervised semantic segmentation in different image domains.
-  [[pdf]](https://arxiv.org/pdf/1912.11186)
+  [[pdf]](https://arxiv.org/pdf/1912.11186) [[code]](A comprehensive analysis of weakly-supervised semantic segmentation in different image domains.)
   - Lyndon Chan · Mahdi S. Hosseini · Konstantinos N. Plataniotis. *IJCV 2021*
   
 - Online Attention Accumulation for Weakly Supervised Semantic Segmentation.
